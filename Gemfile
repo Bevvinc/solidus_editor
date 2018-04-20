@@ -12,6 +12,7 @@ end
 
 gem 'pg', '~> 0.21'
 gem 'mysql2', '~> 0.4.10'
+gem 'ckeditor', github: 'galetahub/ckeditor'
 
 group :development, :test do
   gem "pry-rails"
